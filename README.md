@@ -1,18 +1,60 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Barkot Messele</h1><br><h3 align="center">Software Engineering Student | Full-Stack Developer | Problem Solver</h3><br><br>---<br><br>🎓 Software Engineering student at **Addis Ababa Science and Technology University (AASTU)**  <br><br>💻 Passionate about building **web applications and developer tools**<br><br>🚀 Currently working on:<br>- AI-powered **DSA Tutor**<br>- **UniBites** Campus Food Ordering System<br>- Algorithm & problem solving projects<br><br>🌱 Currently learning:<br>- Advanced **Data Structures & Algorithms**<br>- **React & Backend Development**<br>- System design basics<br><br>⚡ Fun fact  <br>I enjoy building tools that help developers learn faster.<br><br>---<br><br># 🛠️ Languages and Tools<br><br><p><br><img src="https://skillicons.dev/icons?i=java,python,js,react,php,git,github,vscode,supabase" /><br></p><br><br>---<br><br># 🚀 Featured Projects<br><br>### 🔎 AlgoSleuth<br>AI-powered DSA learning assistant that analyzes code and explains algorithms.<br><br>### 🍔 UniBites<br>Campus food ordering system with **admin, cafe, and user dashboards**.<br><br>### 📚 DSA Practice<br>Collection of algorithm solutions and explanations.<br><br>---<br><br># 📊 GitHub Stats<br><br>![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)<br><br>![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)<br><br>---<br><br># 🌐 Connect With Me<br><br>- LinkedIn: your-link<br>- Email: your-email<br>- Telegram: @yourusername<br><br>---<br><br>⭐ *“First solve the problem, then write the code.”*
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barkot-frew-messele-42498b1b4/) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=barkotfrew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=barkotfrew&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=barkotfrew&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Barkot Messele</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | Problem Solver</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=barkotfrew&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎓 **Software Engineering student** at Addis Ababa Science and Technology University (AASTU)  
+💻 Passionate about building **web applications, developer tools, and interactive learning platforms**  
+🌱 Always learning **DSA, React, Backend Development, and System Design**  
+
+---
+
+## 🚀 About Me
+💡 Turning ideas into code and bringing concepts to life  
+📚 I enjoy creating real-world projects to grow and challenge myself  
+✍️ Interested in **UI/UX** and building clean developer experiences  
+⚡ Fun fact: I love building tools that help developers **learn faster and think better**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,php,git,github,vscode,supabase,html,cpp" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🔎 AlgoSleuth
+AI-powered DSA learning assistant that analyzes code and explains algorithms to help developers understand problem-solving strategies.  
+[View Project](https://github.com/barkotfrew/algosleuth)  
+
+### 🍔 UniBites
+Campus food ordering system with **admin, cafe, and user dashboards**, designed to simplify ordering food inside university campuses.  
+[View Project](https://github.com/barkotfrew/unibites)  
+
+### 🧠 TechIQ Quiz App
+Interactive quiz platform that tests knowledge in **programming, computer science, and software development concepts** with real-time feedback.  
+[View Project](https://github.com/barkotfrew/techiq-quiz-app)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barkotfrew&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barkotfrew&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=barkotfrew&theme=tokyonight)  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barkot-frew-messele-42498b1b4)  
+📫 Email: barkotfrew@gmail.com  
+💬 Telegram: @barkotfrew  
+
+---
+
+⭐ *“First solve the problem, then write the code.”*
