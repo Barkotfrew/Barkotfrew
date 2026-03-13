@@ -21,8 +21,19 @@ I enjoy **building tools that help students and developers learn faster** and lo
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barkotfrew&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barkotfrew&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=barkotfrew&theme=tokyonight)  
+
+---
+
 ## 🛠️ Languages & Tools
-Java • Python • C++ • JavaScript • TypeScript • React • PHP • Git • GitHub • VS Code • Supabase • HTML  
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,php,git,github,vscode,supabase,html,cpp" />
+</p>
 
 ---
 
